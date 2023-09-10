@@ -1,0 +1,41 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [],
+            "id": "clmdq68t7000a4066zwgec0w8",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "Vertrauensbereich in der Mitte der Kalibrierung berechnen",
+                    "id": "clmdq6hos000f4066p06ad7my"
+                },
+                {
+                    "text": "R² berechnen",
+                    "id": "clmdq68t7000b4066nlxck3f2"
+                }
+            ],
+            "id": "clmdq68t7000c40666651clzk",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [],
+            "id": "clmdq68t7000d4066ncwy8mku",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [],
+            "id": "clmdq68t7000e4066wmz9ej1t",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1694366744214
+}
